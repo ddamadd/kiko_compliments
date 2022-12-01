@@ -77,7 +77,7 @@
         "You're irresistible when you blush",
         "Actions speak louder than words, and yours tell an incredible story",
         "Somehow you make time stop and fly at the same time",
-        "Sometimes ignorance really is bliss. \nBlast off, beautiful; listen not to the folks on the ground."
+        "Sometimes ignorance really is bliss. \nBlast off, beautiful; listen not to the folks on the ground.",
         "You seem to really know who you are",
         "Any team would be lucky to have you on it",
         "In high school I bet you were voted \"most likely to keep being awesome.\"",
@@ -184,6 +184,7 @@
     "showers": [
     ],
     "rain": [
+        "Wear a raincoat...or a hat!",
         "It's wet, watch your step and enjoy her beauty!",
         "It's rainy outside, but you brighten my day"
     ],
