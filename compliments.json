@@ -162,7 +162,8 @@
         "Sleep tight"
     ],
     "snow": [
-        "Snowball battle!"
+        "Snowball battle!",
+		"You have to love Seattle snow"
     ],
     "day_sunny": [
         "Today is a sunny day",
@@ -183,7 +184,6 @@
     "showers": [
     ],
     "rain": [
-        "Wear a raincoat or a hat!",
         "It's wet, watch your step and enjoy her beauty!",
         "It's rainy outside, but you brighten my day"
     ],
